@@ -1,0 +1,42 @@
+{
+    família da fonte : Arial , Helvetica , sans-serif;
+    tamanho da fonte :  16 px ;
+}
+
+corpo {
+    cor de fundo :  # acacff ;
+
+}
+
+main {
+    cor de fundo : branco;
+    largura :  560 px ;
+    margem : automático;
+    preenchimento :  10 px ;
+    sombra da caixa :  3 px  3 px  5 px  rgba ( 0 ,  0 ,  0 ,  0,473 );
+}
+
+h1 {
+    tamanho da fonte :  2 em ;
+    cor :  rgb ( 58 ,  0 ,  112 );
+}
+
+h2 {
+    tamanho da fonte :  1,5 em ;
+    cor :  rgb ( 58 ,  0 ,  112 );
+}
+
+img . lado {
+    flutuar : certo;
+}
+
+a {
+    decoração de texto : nenhum;
+    peso da fonte : negrito;
+    cor :  rgb ( 58 ,  0 ,  112 );
+}
+
+a : hover {
+    decoração de texto : sublinhado;
+    cor :  rgb ( 26 ,  26 ,  255 );
+}
